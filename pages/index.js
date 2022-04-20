@@ -16,8 +16,8 @@ export default function Home() {
         <div className="container">
           <h1>Weather App - Created with NextJS</h1>
           <Searchbox placeholder="Search for a city..."/>
-          <FamousPlaces />
           <YourLocation />
+          <FamousPlaces />
         </div>
       </div>
     </div>
