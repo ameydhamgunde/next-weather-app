@@ -1,8 +1,11 @@
 import Head from 'next/head';
 import Searchbox from '../components/Searchbox';
 import FamousPlaces from '../components/FamousPlaces';
+import React from 'react';
+import YourLocation from '../components/YourLocation';
 
 export default function Home() {
+
   return (
     <div>
       <Head>
@@ -14,6 +17,7 @@ export default function Home() {
           <h1>Weather App - Created with NextJS</h1>
           <Searchbox placeholder="Search for a city..."/>
           <FamousPlaces />
+          <YourLocation />
         </div>
       </div>
     </div>

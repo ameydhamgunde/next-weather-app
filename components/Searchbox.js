@@ -52,7 +52,7 @@ export default function Searchbox({placeholder}) {
 
     return (
         <div className="search">
-            <input type="text" value = {query} onChange={onChange} placeholder={placeholder}/>
+            <input type="text" value={query} onChange={onChange} placeholder={placeholder}/>
 
             {query.length > 3 && (
                 <ul>

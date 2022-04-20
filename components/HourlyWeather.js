@@ -3,8 +3,6 @@ import React from 'react';
 import Image from 'next/image';
 
 export default function HourlyWeather({hourlyweather, timezone}) {
-    console.log(hourlyweather);
-    console.log(timezone);
   return (
     <div className="hourly">
         <div className="hourly__inner">
