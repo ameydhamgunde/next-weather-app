@@ -4,6 +4,8 @@ Weather app created using NextJS and OpenWeatherMap API, as well as geolocation 
 
 ![alt text](https://github.com/ameydhamgunde/next-weather-app/blob/main/demos/2.png?raw=true)
 
+![alt text](https://github.com/ameydhamgunde/next-weather-app/blob/main/demos/4.png?raw=true)
+
 ![alt text](https://github.com/ameydhamgunde/next-weather-app/blob/main/demos/3.png?raw=true)
 
 
