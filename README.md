@@ -1,3 +1,15 @@
+Weather app created using NextJS and OpenWeatherMap API, as well as geolocation implementation to auto-detect the user's location and give personalized weather results right on the homescreen!
+
+![alt text](https://github.com/ameydhamgunde/next-weather-app/blob/main/demos/1.png?raw=true)
+
+![alt text](https://github.com/ameydhamgunde/next-weather-app/blob/main/demos/2.png?raw=true)
+
+![alt text](https://github.com/ameydhamgunde/next-weather-app/blob/main/demos/4.png?raw=true)
+
+![alt text](https://github.com/ameydhamgunde/next-weather-app/blob/main/demos/3.png?raw=true)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
